@@ -82,21 +82,36 @@ Introducir el uso de LangChain, una librería que permite crear cadenas de proce
 
 Este proyecto es una guía práctica para aprender a usar Hugging Face (HF), un ecosistema abierto para el desarrollo de modelos de aprendizaje automático y el manejo de datasets y espacios de demostración
 
-![alt text](image.png)
+<p align="center"> 
+<img width="625" height="200" alt="image" src="https://github.com/user-attachments/assets/26db8463-bf21-4845-88b0-5c9738e9db96" />
+</p>
 
 - Empezamos a correr los comandos establecidos en la guia:
 
-![alt text](image-1.png)
+<p align="center"> 
+<img width="628" height="274" alt="image" src="https://github.com/user-attachments/assets/221b46b8-1513-4967-bda6-0823e965ba00" />
+</p>
 
-![alt text](image-2.png)
+<p align="center"> 
+<img width="661" height="265" alt="image" src="https://github.com/user-attachments/assets/d6bb5225-9786-472c-967b-8845543d6281" />
+</p>
 
-![alt text](image-3.png)
+<p align="center"> 
+<img width="560" height="271" alt="image" src="https://github.com/user-attachments/assets/f79958d2-d616-490e-b4dc-324a56c33ba3" />
+</p>
 
-![alt text](image-4.png)
+<p align="center"> 
+<img width="973" height="132" alt="image" src="https://github.com/user-attachments/assets/c9c51e9c-70e5-4d58-832d-0f235f9cce8c" />
+</p>
 
-![alt text](image-5.png)
+<p align="center"> 
+<img width="575" height="277" alt="image" src="https://github.com/user-attachments/assets/6e5325e7-f1c7-4eed-a46c-f79972e87441" />
+</p>
 
-![alt text](image-6.png)
+<p align="center"> 
+<img width="939" height="222" alt="image" src="https://github.com/user-attachments/assets/dbf3cc38-89bf-4617-b415-74974c1e92f3" />
+</p>
+
 ## 🏁 Conclusiones
 - Un dominio básico de la conexión entre **Python y la API de OpenAI**.  
 - La capacidad de **configurar y ejecutar notebooks interactivos** en VS Code.  
